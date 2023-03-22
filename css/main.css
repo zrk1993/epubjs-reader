@@ -148,7 +148,7 @@ body {
 }
 
 #sidebar {
-  background: #555;
+  background: #444;
   position: absolute;
   /* left: -260px; */
   /* -webkit-transform: translate(-260px, 0);
@@ -353,8 +353,9 @@ input:-ms-placeholder {
 }
 
 .list_item a {
-  color: #ccc;
+  color: #ddd;
   text-decoration: none;
+  font-size: 14px;
 }
 
 .list_item a.chapter {
