@@ -148,7 +148,7 @@ body {
 }
 
 #sidebar {
-  background: #6b6b6b;
+  background: #555;
   position: absolute;
   /* left: -260px; */
   /* -webkit-transform: translate(-260px, 0);
@@ -353,7 +353,7 @@ input:-ms-placeholder {
 }
 
 .list_item a {
-  color: #AAA;
+  color: #ccc;
   text-decoration: none;
 }
 
