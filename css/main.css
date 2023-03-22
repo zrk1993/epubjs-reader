@@ -45,7 +45,7 @@ body {
   padding: 10px;
   /* margin: 0 50px 0 50px; */
   position: relative;
-  color: #4f4f4f;
+  color: #353535;
   font-weight: 100;
   font-family: Georgia, "Times New Roman", Times, serif;
   opacity: .5;
@@ -127,7 +127,7 @@ body {
   top: 50%;
   margin-top: -32px;
   font-size: 64px;
-  color: #E2E2E2;
+  color: #bbb;
   font-family: arial, sans-serif;
   font-weight: bold;
   cursor: pointer;
